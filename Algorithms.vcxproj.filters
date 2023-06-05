@@ -18,5 +18,19 @@
     <ClCompile Include="Algorithms.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="HouseRobber.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ContainerWithMostWater.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="HouseRobber.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ContainerWithMostWater.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

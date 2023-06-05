@@ -128,6 +128,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Algorithms.cpp" />
+    <ClCompile Include="ContainerWithMostWater.cpp" />
+    <ClCompile Include="HouseRobber.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ContainerWithMostWater.h" />
+    <ClInclude Include="HouseRobber.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
