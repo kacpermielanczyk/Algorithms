@@ -24,12 +24,18 @@
     <ClCompile Include="ContainerWithMostWater.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="LongestIncreasingSubsequence.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="HouseRobber.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="ContainerWithMostWater.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LongestIncreasingSubsequence.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
