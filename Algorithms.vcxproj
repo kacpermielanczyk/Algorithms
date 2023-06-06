@@ -131,11 +131,13 @@
     <ClCompile Include="ContainerWithMostWater.cpp" />
     <ClCompile Include="HouseRobber.cpp" />
     <ClCompile Include="LongestIncreasingSubsequence.cpp" />
+    <ClCompile Include="NextPermutation.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ContainerWithMostWater.h" />
     <ClInclude Include="HouseRobber.h" />
     <ClInclude Include="LongestIncreasingSubsequence.h" />
+    <ClInclude Include="NextPermutation.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
